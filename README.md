@@ -43,7 +43,7 @@ cd haibotlab_v3-1.0-Linux-x86_64
 ```bash
 chmod +x haibotlab_v3
 ```
-# Chạy
+## 7. Chạy
 ```bash
 ./haibotlab_v3
 ```
