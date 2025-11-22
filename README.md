@@ -1,4 +1,5 @@
 # HaibotLab Releases
+<img width="898" height="533" alt="Screenshot from 2025-11-23 01-45-14" src="https://github.com/user-attachments/assets/bb0391a5-5892-4a33-b518-4fd97b3cfbca" />    
 
 ## 1. Tải bản phát hành
 
